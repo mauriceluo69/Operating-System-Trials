@@ -9,4 +9,4 @@ There are some simple experiments of Operating Systems, including:
 + Producer-Consumer problem
 + Page replacement algorithms (FIFO and LRU)
 
-which is also regarded as partial homework in OS class in BUPT (5th term)."# Operating-System-Trials" 
+which is also regarded as partial homework in OS class in BUPT (5th term).
